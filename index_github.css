@@ -1,0 +1,77 @@
+.form-control{
+    background-color: black;
+    margin: 150px; 
+    border-radius: 8px solid black;
+    position: relative;
+    top: -70px;
+    left: 400px;
+    width:100px;
+    padding: 10px;
+
+
+}
+.item1{
+    background-color: black;
+    margin:10px;
+    position:relative;
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 500px;
+    width:200px;
+    top:-250px;
+}
+.item2{
+    background-color: black;
+    position:absolute;
+    border:1px solid black;
+    border-radius: 15px;
+    height:150px;
+    width:150px;
+    top: 250px;
+    left:400px;
+    
+}
+.item3{
+    background-color: black;
+    position:absolute;
+    border:1px solid black;
+    border-radius: 15px;
+    height:150px;
+    width: 150px;
+    top: 250px;
+    left:600px;
+   
+    
+}
+.item4{
+
+background-color: black;
+    position:absolute;
+    border:1px solid black;
+    border-radius: 15px;
+    height:150px;
+    width:150px;
+    top: 250px;
+    left:800px;
+   
+}
+#item5{
+    background-color: black;
+    position:absolute;
+    border:1px solid black;
+    border-radius: 15px;
+    height:150px;
+    width: 600px;
+    top: 500px;
+    left:400px;
+
+}
+    
+
+
+body{
+    background-color: grey;
+    width: 100%;
+
+}
+
